@@ -1,0 +1,5 @@
+{
+  "name": "SVG Light Shading Tool",
+  "description": "An interactive tool to simulate directional light exposure on SVG icons by adjusting edge thickness and softness. Users can control light angle, intensity, colors, and export the results as static SVG or PNG files.",
+  "requestFramePermissions": []
+}
